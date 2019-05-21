@@ -2,21 +2,25 @@
 
 🗺️Natural Language Processing Roadmap.
 
-> This project is an experiment called PCB, PCB is not **Printed Circuit Board**, but an abbreviation of `Paper Code Blog`. I think these three things allow us to quickly master a point of knowledge, taking into account both theory and practice.
+> This project is an experiment called `PCB`, PCB is not Printed Circuit Board, but an abbreviation of `Paper Code Blog`. I think these three things allow us to quickly master a point of knowledge, taking into account both theory and practice.
 
 
 ## 1 Word Embedding
 
-### NNLM 
+### Survey
+
+- paper: [Word Embeddings: A Survey](https://arxiv.org/abs/1901.09069)
+
+### NNLM
 
 - paper: [A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
-- code: [NNLM](https://github.com/FuYanzhe2/NNLM)
+- code: [NNLM](https://github.com/FuYanzhe2/NNLM) ![](https://img.shields.io/github/stars/FuYanzhe2/NNLM.svg)
 - blog: [A Neural Probabilistic Language Model](https://zhuanlan.zhihu.com/p/21240807)
 
-### Word2Vector
+### W2V
 
 - paper: [Efficient Estiation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)
-  
+
 ### Glove
 
 - paper: [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf)
@@ -35,4 +39,7 @@
 
 ### BERT
 
-5. [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
+- paper: [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
+- code: [bert](https://github.com/google-research/bert) ![](https://img.shields.io/github/stars/google-research/bert.svg)
+- blog: [从Word Embedding到Bert模型—自然语言处理中的预训练技术发展史](https://zhuanlan.zhihu.com/p/49271699)
+
