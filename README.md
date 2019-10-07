@@ -32,7 +32,9 @@
 
 ### 综述
 
-- paper: [Word Embeddings: A Survey](https://arxiv.org/abs/1901.09069) 🌟🌟🌟
+- paper: 
+  - [Word Embeddings: A Survey](https://arxiv.org/pdf/1901.09069.pdf) 🌟🌟🌟
+  - [Visualizing Attention in Transformer-Based Language Representation Models](https://arxiv.org/pdf/1904.02679.pdf)🌟🌟
 
 ### NNLM
 
