@@ -62,7 +62,9 @@
 
 ### BERT
 
-- paper: [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf) 🌟🌟🌟
+- paper:
+  - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf) 🌟🌟🌟
+  - [BERT Rediscovers the Classical NLP Pipeline](https://arxiv.org/pdf/1905.05950.pdf)🌟🌟
 - code: [bert](https://github.com/google-research/bert) ![](https://img.shields.io/github/stars/google-research/bert.svg)
 - blog: [从Word Embedding到Bert模型—自然语言处理中的预训练技术发展史](https://zhuanlan.zhihu.com/p/49271699)
 
