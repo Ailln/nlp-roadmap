@@ -34,7 +34,8 @@
 
 - paper: 
   - [Word Embeddings: A Survey](https://arxiv.org/pdf/1901.09069.pdf) 🌟🌟🌟
-  - [Visualizing Attention in Transformer-Based Language Representation Models](https://arxiv.org/pdf/1904.02679.pdf)🌟🌟
+  - [Visualizing Attention in Transformer-Based Language Representation Models](https://arxiv.org/pdf/1904.02679.pdf) 🌟🌟
+  - [Pre-trained Models for Natural Language Processing: A Survey](https://arxiv.org/pdf/2003.08271.pdf) 🌟🌟🌟
 
 ### NNLM
 
