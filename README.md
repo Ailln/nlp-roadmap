@@ -28,7 +28,7 @@
 
 ## 2 词嵌入 `Word Embedding`
 
-**词嵌入**就是找到一个映射或者函数，生成在一个新的空间上的表示，该表示被称为「单词表示」。[更多](https://www.v2ai.cn/2018/08/27/nature-language-processing/1-word-embedding/)
+**词嵌入**就是找到一个映射或者函数，生成在一个新的空间上的表示，该表示被称为「单词表示」。[更多](https://www.v2ai.cn/2018/04/26/nature-language-processing/2-word-segmentation/)
 
 ### 综述
 
