@@ -32,45 +32,24 @@
 
 ### 综述
 
-- paper: 
+- paper:
   - [Word Embeddings: A Survey](https://arxiv.org/pdf/1901.09069.pdf) 🌟🌟🌟
   - [Visualizing Attention in Transformer-Based Language Representation Models](https://arxiv.org/pdf/1904.02679.pdf) 🌟🌟
   - [Pre-trained Models for Natural Language Processing: A Survey](https://arxiv.org/pdf/2003.08271.pdf) 🌟🌟🌟
 
-### NNLM
+### 核心
 
-- paper: [A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf) 🌟
-- code: [NNLM](https://github.com/FuYanzhe2/NNLM) ![](https://img.shields.io/github/stars/FuYanzhe2/NNLM.svg)
-- blog: [A Neural Probabilistic Language Model](https://zhuanlan.zhihu.com/p/21240807)
+- **NNLM**: A Neural Probabilistic Language Model [\[Paper\]](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf) [\[Code\]](https://github.com/FuYanzhe2/NNLM) [\[Blog\]](https://zhuanlan.zhihu.com/p/21240807) 🌟
+- **W2V**: Efficient Estiation of Word Representations in Vector Space [\[Paper\]](https://arxiv.org/abs/1301.3781) 🌟🌟
+- **Glove**: Global Vectors for Word Representation [\[Paper\]](https://nlp.stanford.edu/pubs/glove.pdf) 🌟🌟
+- **FastText**: Bag of Tricks for Efficient Text Classification [\[Paper\]](https://arxiv.org/pdf/1607.01759.pdf) 🌟🌟
+- **ELMO**: Deep contextualized word representations [\[Paper\]](https://arxiv.org/pdf/1802.05365.pdf) 🌟🌟
+- **GPT**: Improving Language Understanding by Generative Pre-Training [\[Paper\]](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) 🌟🌟
+- **BERT**: Pre-training of Deep Bidirectional Transformers for Language Understanding [\[Paper\]](https://arxiv.org/pdf/1810.04805.pdf) [\[Code\]](https://github.com/google-research/bert) [\[Blog\]](https://zhuanlan.zhihu.com/p/49271699) 🌟🌟🌟
 
-### W2V
+### 其他
 
-- paper: [Efficient Estiation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781) 🌟🌟
-
-### Glove
-
-- paper: [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf) 🌟🌟
-
-### FastText
-
-- paper: [Bag of Tricks for Efficient Text Classification](https://arxiv.org/pdf/1607.01759.pdf) 🌟🌟
-
-### ELMO
-
-- paper: [Deep contextualized word representations](https://arxiv.org/pdf/1802.05365.pdf) 🌟🌟
-
-### GPT
-
-- paper: [Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) 🌟🌟
-
-### BERT
-
-- paper:
-  - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf) 🌟🌟🌟
-  - [BERT Rediscovers the Classical NLP Pipeline](https://arxiv.org/pdf/1905.05950.pdf)🌟🌟
-- code: [bert](https://github.com/google-research/bert) ![](https://img.shields.io/github/stars/google-research/bert.svg)
-- blog: [从Word Embedding到Bert模型—自然语言处理中的预训练技术发展史](https://zhuanlan.zhihu.com/p/49271699)
-
+- BERT Rediscovers the Classical NLP Pipeline [\[Paper\]](https://arxiv.org/pdf/1905.05950.pdf) 🌟🌟
 
 ## 3 序列标注 `Sequence Labeling`
 
@@ -78,7 +57,7 @@
 
 - blog: [Sequence Labeling的发展史（DNNs+CRF）](https://zhuanlan.zhihu.com/p/34828874)
 
-### bi-LSTM + CRF
+### Bi-LSTM + CRF
 
 - paper: [End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF](https://www.aclweb.org/anthology/P16-1101)🌟🌟
 - code:
