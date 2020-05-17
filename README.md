@@ -43,7 +43,8 @@
 - **W2V**: Efficient Estiation of Word Representations in Vector Space [\[Paper\]](https://arxiv.org/abs/1301.3781) 🌟🌟
 - **Glove**: Global Vectors for Word Representation [\[Paper\]](https://nlp.stanford.edu/pubs/glove.pdf) 🌟🌟
 - **FastText**: Bag of Tricks for Efficient Text Classification [\[Paper\]](https://arxiv.org/pdf/1607.01759.pdf) 🌟🌟
-- **ELMO**: Deep contextualized word representations [\[Paper\]](https://arxiv.org/pdf/1802.05365.pdf) 🌟🌟
+- **ELMo**: Deep contextualized word representations [\[Paper\]](https://arxiv.org/pdf/1802.05365.pdf) 🌟🌟
+- **Transformer**: Attention is All you Need [\[Paper\]](https://arxiv.org/pdf/1706.03762.pdf) [\[Code\]](https://github.com/tensorflow/tensor2tensor) [\[Blog\]](http://jalammar.github.io/illustrated-transformer/) 🌟🌟🌟
 - **GPT**: Improving Language Understanding by Generative Pre-Training [\[Paper\]](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) 🌟🌟
 - **BERT**: Pre-training of Deep Bidirectional Transformers for Language Understanding [\[Paper\]](https://arxiv.org/pdf/1810.04805.pdf) [\[Code\]](https://github.com/google-research/bert) [\[Blog\]](https://zhuanlan.zhihu.com/p/49271699) 🌟🌟🌟
 
