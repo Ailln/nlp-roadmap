@@ -21,7 +21,7 @@
 - 国内中文自动分词技术研究综述 [\[Paper\]](http://www.lis.ac.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=11361) 🌟
 - 汉语自动分词的研究现状与困难 [\[Paper\]](http://sourcedb.ict.cas.cn/cn/ictthesis/200907/P020090722605434114544.pdf) 🌟🌟
 - 汉语自动分词研究评述 [\[Paper\]](http://59.108.48.5/course/mining/12-13spring/%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE/02-01%E6%B1%89%E8%AF%AD%E8%87%AA%E5%8A%A8%E5%88%86%E8%AF%8D%E7%A0%94%E7%A9%B6%E8%AF%84%E8%BF%B0.pdf) 🌟🌟
-- 中文分词十年又回顾: 2007-2017 [\[Paper\]](ttps://arxiv.org/pdf/1901.06079.pdf) 🌟🌟🌟
+- 中文分词十年又回顾: 2007-2017 [\[Paper\]](https://arxiv.org/pdf/1901.06079.pdf) 🌟🌟🌟
 - chinese-word-segmentation [\[Code\]](https://github.com/Ailln/chinese-word-segmentation)
 - 深度学习中文分词调研 [\[Blog\]](http://www.hankcs.com/nlp/segment/depth-learning-chinese-word-segmentation-survey.html)
 
