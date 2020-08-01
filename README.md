@@ -59,7 +59,7 @@
 
 ### 综述
 
-- Sequence Labeling的发展史（DNNs+CRF）[\[Blog\]](https://zhuanlan.zhihu.com/p/34828874)
+- Sequence Labeling 的发展史（DNNs+CRF）[\[Blog\]](https://zhuanlan.zhihu.com/p/34828874)
 
 ### Bi-LSTM + CRF
 
@@ -75,6 +75,17 @@
 ### 综述
 
 - Towards a Definition of Knowledge Graphs [\[Paper\]](http://ceur-ws.org/Vol-1695/paper4.pdf) 🌟🌟🌟
+
+## 5 对话系统 `Dialogue Systems`
+
+### 综述
+
+- A Survey on Dialogue Systems: Recent Advances and New Frontiers [\[Paper\]](https://arxiv.org/pdf/1711.01731v1.pdf) [\[Blog\]](https://zhuanlan.zhihu.com/p/45210996) 🌟🌟
+
+### Joint NLU
+
+- Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling [\[Paper\]](https://arxiv.org/pdf/1609.01454.pdf) [\[Code\]](https://github.com/Ailln/chatbot) 🌟🌟
+- BERT for Joint Intent Classification and Slot Filling [\[Paper\]](https://arxiv.org/pdf/1902.10909.pdf) 🌟
 
 ## 参考
 
