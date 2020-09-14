@@ -45,7 +45,7 @@
 - **Transformer**: Attention is All you Need [\[Paper\]](https://arxiv.org/pdf/1706.03762.pdf) [\[Code\]](https://github.com/tensorflow/tensor2tensor) [\[Blog\]](http://jalammar.github.io/illustrated-transformer/) 🌟🌟🌟
 - **GPT**: Improving Language Understanding by Generative Pre-Training [\[Paper\]](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) 🌟
 - **GPT2**: Language Models are Unsupervised Multitask Learners [\[Paper\]](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf) [\[Code\]](https://github.com/openai/gpt-2) [\[Blog\]](https://openai.com/blog/better-language-models/) 🌟🌟
-- **GPT3**: Language Models are Few-Shot Learners [\[Paper\]](https://arxiv.org/pdf/2005.14165.pdf) [\[Code\]](https://github.com/openai/gpt-3) 🌟🌟
+- **GPT3**: Language Models are Few-Shot Learners [\[Paper\]](https://arxiv.org/pdf/2005.14165.pdf) [\[Code\]](https://github.com/openai/gpt-3) 🌟🌟🌟
 - **BERT**: Pre-training of Deep Bidirectional Transformers for Language Understanding [\[Paper\]](https://arxiv.org/pdf/1810.04805.pdf) [\[Code\]](https://github.com/google-research/bert) [\[Blog\]](https://zhuanlan.zhihu.com/p/49271699) 🌟🌟🌟
 - **T5**: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer [\[Paper\]](https://arxiv.org/pdf/1910.10683.pdf) [\[Code\]](https://github.com/google-research/text-to-text-transfer-transformer) [\[Blog\]](https://ai.googleblog.com/2020/02/exploring-transfer-learning-with-t5.html) 🌟
 - **ERNIE**: ERNIE: Enhanced Language Representation with Informative Entities [\[Paper\]](https://arxiv.org/pdf/1905.07129.pdf) [\[Code\]](https://github.com/thunlp/ERNIE) 🌟
