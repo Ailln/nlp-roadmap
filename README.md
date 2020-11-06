@@ -70,6 +70,10 @@
 - End-to-end-Sequence-Labeling-via-Bi-directional-LSTM-CNNs-CRF-Tutorial [\[Code\]](https://github.com/jayavardhanr/End-to-end-Sequence-Labeling-via-Bi-directional-LSTM-CNNs-CRF-Tutorial)
 - Bi-directional LSTM-CNNs-CRF [\[Code\]](https://zhuanlan.zhihu.com/p/30791481)
 
+### 其他
+
+- Sequence to Sequence Learning with Neural Networks [\[Paper\]](https://proceedings.neurips.cc/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf) 🌟
+
 ## 4 知识图谱 `Knowledge Graph`
 
 ### 综述
