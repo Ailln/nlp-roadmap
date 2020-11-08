@@ -1,12 +1,12 @@
-# 🗺️ Natural Language Processing Roadmap
+# Natural Language Processing Roadmap
 
-一个自然语言处理的学习路线图。
+🗺️ 一个自然语言处理的学习路线图
 
-> ⚠️注意:
+> ⚠️ 注意:
 >
-> 1. 这个项目包含一个名为 `PCB` 的小实验，这个的 PCB 不是印刷电路板 `Printed Circuit Board`，也不是进程控制块 `Process Control Block`，而是 `Paper Code Blog` 的缩写。我认为 `论文`、`代码` 和 `博客` 这三个东西可以让我们兼顾理论和实践同时，快速地掌握知识点！
+> 1. 这个项目包含一个名为 `PCB` 的小实验，这个的 PCB 不是印刷电路板 `Printed Circuit Board`，也不是进程控制块 `Process Control Block`，而是 `Paper Code Blog` 的缩写。我认为 `论文`、`代码` 和 `博客` 这三个东西，可以让我们兼顾理论和实践同时，快速地掌握知识点！
 >
-> 2. 每篇论文后面的星星个数代表论文的重要性（主观意见，仅供参考）。
+> 2. 每篇论文后面的星星个数代表论文的重要性（*主观意见，仅供参考*）。
 >     1. 🌟: 一般；
 >     2. 🌟🌟: 重要；
 >     3. 🌟🌟🌟: 非常重要。
@@ -52,7 +52,11 @@
 - **BERT**: Pre-training of Deep Bidirectional Transformers for Language Understanding [\[Paper\]](https://arxiv.org/pdf/1810.04805.pdf) [\[Code\]](https://github.com/google-research/bert) [\[Blog\]](https://zhuanlan.zhihu.com/p/49271699) 🌟🌟🌟
 - **UniLM**: Unified Language Model Pre-training for Natural Language Understanding and Generation [\[Paper\]](https://arxiv.org/pdf/1905.03197.pdf) [\[Code\]](https://github.com/microsoft/unilm) [\[Blog\]](https://zhuanlan.zhihu.com/p/68327602) 🌟🌟
 - **T5**: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer [\[Paper\]](https://arxiv.org/pdf/1910.10683.pdf) [\[Code\]](https://github.com/google-research/text-to-text-transfer-transformer) [\[Blog\]](https://ai.googleblog.com/2020/02/exploring-transfer-learning-with-t5.html) 🌟
-- **ERNIE**: ERNIE: Enhanced Language Representation with Informative Entities [\[Paper\]](https://arxiv.org/pdf/1905.07129.pdf) [\[Code\]](https://github.com/thunlp/ERNIE) 🌟
+- **ERNIE**(Baidu): Enhanced Representation through Knowledge Integration [\[Paper\]](https://arxiv.org/pdf/1904.09223.pdf) [\[Code\]](https://github.com/PaddlePaddle/ERNIE) 🌟
+- **ERNIE**(Tsinghua): Enhanced Language Representation with Informative Entities [\[Paper\]](https://arxiv.org/pdf/1905.07129.pdf) [\[Code\]](https://github.com/thunlp/ERNIE) 🌟
+- **RoBERTa**: A Robustly Optimized BERT Pretraining Approach [\[Paper\]](https://arxiv.org/pdf/1907.11692.pdf) 🌟
+- **ALBERT**: A Lite BERT for Self-supervised Learning of Language Representations [\[Paper\]](https://arxiv.org/pdf/1909.11942.pdf) [\[Code\]](https://github.com/google-research/ALBERT) 🌟🌟
+- **TinyBERT**: Distilling BERT for Natural Language Understanding [\[Paper\]](https://arxiv.org/pdf/1909.10351.pdf) 🌟🌟
 
 ### 其他
 
