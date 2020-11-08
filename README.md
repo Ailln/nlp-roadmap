@@ -62,6 +62,9 @@
 
 - Semi-supervised Sequence Learning [\[Paper\]](https://arxiv.org/pdf/1511.01432.pdf) 🌟🌟
 - BERT Rediscovers the Classical NLP Pipeline [\[Paper\]](https://arxiv.org/pdf/1905.05950.pdf) 🌟
+- Pre-trained Languge Model Papers [\[Blog\]](https://github.com/thunlp/PLMpapers) 🌟🌟
+- HuggingFace Transformers [\[Code\]](https://github.com/huggingface/transformers) 🌟🌟🌟
+- Fudan FastNLP [\[Code\]](https://github.com/fastnlp/fastNLP) 🌟🌟
 
 ## 3 序列标注 `Sequence Labeling`
 
