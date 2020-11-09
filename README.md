@@ -57,14 +57,15 @@
 - **RoBERTa**: A Robustly Optimized BERT Pretraining Approach [\[Paper\]](https://arxiv.org/pdf/1907.11692.pdf) 🌟
 - **ALBERT**: A Lite BERT for Self-supervised Learning of Language Representations [\[Paper\]](https://arxiv.org/pdf/1909.11942.pdf) [\[Code\]](https://github.com/google-research/ALBERT) 🌟🌟
 - **TinyBERT**: Distilling BERT for Natural Language Understanding [\[Paper\]](https://arxiv.org/pdf/1909.10351.pdf) 🌟🌟
+- **FastFormers**: Highly Efficient Transformer Models for Natural Language Understanding [\[Paper\]](https://arxiv.org/pdf/2010.13382.pdf) [\[Code\]](https://github.com/microsoft/fastformers) 🌟🌟
 
 ### 其他
 
 - Semi-supervised Sequence Learning [\[Paper\]](https://arxiv.org/pdf/1511.01432.pdf) 🌟🌟
 - BERT Rediscovers the Classical NLP Pipeline [\[Paper\]](https://arxiv.org/pdf/1905.05950.pdf) 🌟
-- Pre-trained Languge Model Papers [\[Blog\]](https://github.com/thunlp/PLMpapers) 🌟🌟
-- HuggingFace Transformers [\[Code\]](https://github.com/huggingface/transformers) 🌟🌟🌟
-- Fudan FastNLP [\[Code\]](https://github.com/fastnlp/fastNLP) 🌟🌟
+- Pre-trained Languge Model Papers [\[Blog\]](https://github.com/thunlp/PLMpapers)
+- HuggingFace Transformers [\[Code\]](https://github.com/huggingface/transformers)
+- Fudan FastNLP [\[Code\]](https://github.com/fastnlp/fastNLP)
 
 ## 3 序列标注 `Sequence Labeling`
 
