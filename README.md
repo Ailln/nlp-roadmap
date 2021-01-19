@@ -104,6 +104,12 @@
 - Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling [\[Paper\]](https://arxiv.org/pdf/1609.01454.pdf) [\[Code\]](https://github.com/Ailln/chatbot) 🌟🌟
 - BERT for Joint Intent Classification and Slot Filling [\[Paper\]](https://arxiv.org/pdf/1902.10909.pdf) 🌟
 
+## 6 主题模型 `Topic Model`
+
+### LDA
+
+- Latent Dirichlet Allocation  [\[Paper\]](https://jmlr.org/papers/volume3/blei03a/blei03a.pdf) [\[Blog\]](https://arxiv.org/pdf/1908.03142.pdf) 🌟🌟🌟
+
 ## 参考
 
 - [thunlp/NLP-THU](https://github.com/thunlp/NLP-THU)
