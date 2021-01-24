@@ -86,6 +86,7 @@
 ### 其他
 
 - Sequence to Sequence Learning with Neural Networks [\[Paper\]](https://proceedings.neurips.cc/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf) 🌟
+- Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks [\[Paper\]](https://arxiv.org/pdf/1506.03099.pdf) 🌟
 
 ## 4 知识图谱 `Knowledge Graph`
 
