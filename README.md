@@ -63,6 +63,7 @@
 
 ### 其他
 
+- word2vec Parameter Learning Explained [\[Paper\]](https://arxiv.org/pdf/1411.2738.pdf) 🌟🌟
 - Semi-supervised Sequence Learning [\[Paper\]](https://arxiv.org/pdf/1511.01432.pdf) 🌟🌟
 - BERT Rediscovers the Classical NLP Pipeline [\[Paper\]](https://arxiv.org/pdf/1905.05950.pdf) 🌟
 - Pre-trained Languge Model Papers [\[Blog\]](https://github.com/thunlp/PLMpapers)
