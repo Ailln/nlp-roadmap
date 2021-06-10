@@ -35,6 +35,7 @@
 - Visualizing Attention in Transformer-Based Language Representation Models [{Paper}](https://arxiv.org/pdf/1904.02679.pdf) 🌟🌟
 - **PTMs**: Pre-trained Models for Natural Language Processing: A Survey [{Paper}](https://arxiv.org/pdf/2003.08271.pdf) [{Blog}](https://zhuanlan.zhihu.com/p/115014536) 🌟🌟🌟
 - Efficient Transformers: A Survey [{Paper}](https://arxiv.org/pdf/2009.06732.pdf) 🌟🌟
+- A Survey of Transformers [{Paper}](https://arxiv.org/pdf/2106.04554.pdf) 🌟🌟
 
 ### 核心
 
