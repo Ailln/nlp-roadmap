@@ -124,7 +124,14 @@
 
 - Latent Dirichlet Allocation  [{Paper}](https://jmlr.org/papers/volume3/blei03a/blei03a.pdf) [{Blog}](https://arxiv.org/pdf/1908.03142.pdf) 🌟🌟🌟
 
+## 7 提示学习 `Prompt Learning`
+
+### 综述
+
+- **PPP**: Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing [{Paper}](https://arxiv.org/pdf/2107.13586.pdf) [{Blog}](https://zhuanlan.zhihu.com/p/395115779) 🌟🌟🌟
+
 ## 参考
 
 - [thunlp/NLP-THU](https://github.com/thunlp/NLP-THU)
 - [iwangjian/Paper-Reading](https://github.com/iwangjian/Paper-Reading)
+- [thunlp/PromptPapers](https://github.com/thunlp/PromptPapers)
