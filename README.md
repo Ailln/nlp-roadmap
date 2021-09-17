@@ -37,6 +37,9 @@
 - Efficient Transformers: A Survey [{Paper}](https://arxiv.org/pdf/2009.06732.pdf) 🌟🌟
 - A Survey of Transformers [{Paper}](https://arxiv.org/pdf/2106.04554.pdf) 🌟🌟
 - Pre-Trained Models: Past, Present and Future [{Paper}](https://arxiv.org/pdf/2106.07139.pdf) 🌟🌟
+- Pretrained Language Models for Text Generation: A Survey [{Paper}](https://arxiv.org/pdf/2105.10311.pdf) 🌟
+- A Practical Survey on Faster and Lighter Transformers [{Paper}](https://arxiv.org/pdf/2103.14636.pdf) 🌟
+- The NLP Cookbook: Modern Recipes for Transformer based Deep Learning Architectures [{Paper}](https://arxiv.org/pdf/2104.10640.pdf) 🌟🌟
 
 ### 核心
 
@@ -130,6 +133,12 @@
 ### 综述
 
 - **PPP**: Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing [{Paper}](https://arxiv.org/pdf/2107.13586.pdf) [{Blog}](https://zhuanlan.zhihu.com/p/395115779) 🌟🌟🌟
+
+## 8 图神经网络
+
+### 综述
+
+- Graph Neural Networks for Natural Language Processing: A Survey [{Paper}](https://arxiv.org/pdf/2106.06090.pdf) 🌟🌟
 
 ## 参考
 
