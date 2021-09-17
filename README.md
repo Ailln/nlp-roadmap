@@ -36,6 +36,7 @@
 - **PTMs**: Pre-trained Models for Natural Language Processing: A Survey [{Paper}](https://arxiv.org/pdf/2003.08271.pdf) [{Blog}](https://zhuanlan.zhihu.com/p/115014536) 🌟🌟🌟
 - Efficient Transformers: A Survey [{Paper}](https://arxiv.org/pdf/2009.06732.pdf) 🌟🌟
 - A Survey of Transformers [{Paper}](https://arxiv.org/pdf/2106.04554.pdf) 🌟🌟
+- Pre-Trained Models: Past, Present and Future [{Paper}](https://arxiv.org/pdf/2106.07139.pdf) 🌟🌟
 
 ### 核心
 
