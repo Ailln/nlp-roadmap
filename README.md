@@ -116,8 +116,8 @@
 
 ### Conversational Response Selection
 
-- Multi-view Response Selection for Human-Computer Conversation [{Paper}](aclweb.org/anthology/D16-1036.pdf) 🌟🌟
-- **SMN**: Sequential Matching Network: A New Architecture for Multi-turn Response Selection in Retrieval-Based Chatbots [{Paper}](https://www.aclweb.org/anthology/P17-1046.pdf) [{Code}](https://github.com/MarkWuNLP/MultiTurnResponseSelection) [{Blog}](https://zhuanlan.zhihu.com/p/65062025) 🌟🌟🌟
+- Multi-view Response Selection for Human-Computer Conversation [{Paper}](https://aclweb.org/anthology/D16-1036.pdf) 🌟🌟
+- **SMN**: Sequential Matching Network: A New Architecture for Multi-turn Response Selection in Retrieval-Based Chatbots [{Paper}](https://www.aclweb.org/anthology/P17-1046.pdf) [{Code}](https://github.com/MarkWuNLP/MultiTurnResponseSelection) [{Blog}](https://zhuanlan.zhihu.com/p/65062025) 🌟🌟🌟:
 - **DUA**: Modeling Multi-turn Conversation with Deep Utterance Aggregation [{Paper}](https://www.aclweb.org/anthology/C18-1317.pdf) [{Code}](https://github.com/cooelf/DeepUtteranceAggregation) [{Blog}](https://zhuanlan.zhihu.com/p/60618158) 🌟🌟
 - **DAM**: Multi-Turn Response Selection for Chatbots with Deep Attention Matching Network [{Paper}](https://www.aclweb.org/anthology/P18-1103.pdf) [{Code}](https://github.com/baidu/Dialogue/tree/master/DAM) [{Blog}](https://zhuanlan.zhihu.com/p/65143297) 🌟🌟🌟
 - **IMN**: Interactive Matching Network for Multi-Turn Response Selection in Retrieval-Based Chatbots [{Paper}](https://arxiv.org/pdf/1901.01824.pdf) [{Code}](https://github.com/JasonForJoy/IMN) [{Blog}](https://zhuanlan.zhihu.com/p/68590678) 🌟🌟
