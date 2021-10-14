@@ -107,6 +107,7 @@
 
 - A Survey on Dialogue Systems: Recent Advances and New Frontiers [{Paper}](https://arxiv.org/pdf/1711.01731v1.pdf) [{Blog}](https://zhuanlan.zhihu.com/p/45210996) 🌟🌟
 - 小哥哥，检索式chatbot了解一下？ [{Blog}](https://mp.weixin.qq.com/s/yC8uYwti9Meyt83xkmbmcg) 🌟🌟🌟
+- Recent Neural Methods on Slot Filling and Intent Classification for Task-Oriented Dialogue Systems: A Survey [{Paper}](https://arxiv.org/pdf/2011.00564.pdf) 🌟🌟
 
 ### Task-Oriented Dialogue Systems
 
