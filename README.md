@@ -75,7 +75,14 @@
 - HuggingFace Transformers [{Code}](https://github.com/huggingface/transformers)
 - Fudan FastNLP [{Code}](https://github.com/fastnlp/fastNLP)
 
-## 3 序列标注 `Sequence Labeling`
+## 3 文本分类 `Text Classification`
+
+### 综述
+
+- A Survey on Text Classification: From Shallow to Deep Learning [{Paper}](https://arxiv.org/pdf/2008.00364.pdf) 🌟🌟🌟
+- Deep Learning Based Text Classification: A Comprehensive Review [{Paper}](https://arxiv.org/pdf/2004.03705.pdf) 🌟🌟
+
+## 4 序列标注 `Sequence Labeling`
 
 ### 综述
 
@@ -95,13 +102,13 @@
 - Sequence to Sequence Learning with Neural Networks [{Paper}](https://proceedings.neurips.cc/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf) 🌟
 - Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks [{Paper}](https://arxiv.org/pdf/1506.03099.pdf) 🌟
 
-## 4 知识图谱 `Knowledge Graph`
+## 5 知识图谱 `Knowledge Graph`
 
 ### 综述
 
 - Towards a Definition of Knowledge Graphs [{Paper}](http://ceur-ws.org/Vol-1695/paper4.pdf) 🌟🌟🌟
 
-## 5 对话系统 `Dialogue Systems`
+## 6 对话系统 `Dialogue Systems`
 
 ### 综述
 
@@ -124,19 +131,19 @@
 - **IMN**: Interactive Matching Network for Multi-Turn Response Selection in Retrieval-Based Chatbots [{Paper}](https://arxiv.org/pdf/1901.01824.pdf) [{Code}](https://github.com/JasonForJoy/IMN) [{Blog}](https://zhuanlan.zhihu.com/p/68590678) 🌟🌟
 - Dialogue Transformers [{Paper}](https://arxiv.org/pdf/1910.00486.pdf) 🌟🌟
 
-## 6 主题模型 `Topic Model`
+## 7 主题模型 `Topic Model`
 
 ### LDA
 
 - Latent Dirichlet Allocation  [{Paper}](https://jmlr.org/papers/volume3/blei03a/blei03a.pdf) [{Blog}](https://arxiv.org/pdf/1908.03142.pdf) 🌟🌟🌟
 
-## 7 提示学习 `Prompt Learning`
+## 8 提示学习 `Prompt Learning`
 
 ### 综述
 
 - **PPP**: Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing [{Paper}](https://arxiv.org/pdf/2107.13586.pdf) [{Blog}](https://zhuanlan.zhihu.com/p/395115779) 🌟🌟🌟
 
-## 8 图神经网络
+## 9 图神经网络
 
 ### 综述
 
