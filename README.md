@@ -44,7 +44,7 @@
 ### 核心
 
 - **NNLM**: A Neural Probabilistic Language Model [{Paper}](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf) [{Code}](https://github.com/FuYanzhe2/NNLM) [{Blog}](https://zhuanlan.zhihu.com/p/21240807) 🌟
-- **W2V**: Efficient Estiation of Word Representations in Vector Space [{Paper}](https://arxiv.org/abs/1301.3781) 🌟🌟
+- **W2V**: Efficient Estimation of Word Representations in Vector Space [{Paper}](https://arxiv.org/abs/1301.3781) 🌟🌟
 - **Glove**: Global Vectors for Word Representation [{Paper}](https://nlp.stanford.edu/pubs/glove.pdf) 🌟🌟
 - **CharCNN**: Character-level Convolutional Networks for Text Classification [{Paper}](https://arxiv.org/pdf/1509.01626.pdf) [{Blog}](https://zhuanlan.zhihu.com/p/51698513) 🌟
 - **ULMFiT**: Universal Language Model Fine-tuning for Text Classification [{Paper}](https://arxiv.org/pdf/1801.06146.pdf) 🌟
