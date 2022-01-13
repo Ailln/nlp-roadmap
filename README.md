@@ -149,6 +149,15 @@
 
 - Graph Neural Networks for Natural Language Processing: A Survey [{Paper}](https://arxiv.org/pdf/2106.06090.pdf) 🌟🌟
 
+## 10 句嵌入 `Sentence Embedding`
+
+### 核心
+
+- **InferSent**: Supervised Learning of Universal Sentence Representations from Natural Language Inference Data [{Paper}](https://arxiv.org/pdf/1705.02364.pdf) [{Code}](https://github.com/facebookresearch/InferSent) 🌟🌟
+- **Sentence-BERT**: Sentence Embeddings using Siamese BERT-Networks [{Paper}](https://arxiv.org/pdf/1908.10084.pdf) [{Code}](https://github.com/UKPLab/sentence-transformers) 🌟🌟🌟
+- **BERT-flow**: On the Sentence Embeddings from Pre-trained Language Models [{Paper}](https://arxiv.org/pdf/2011.05864.pdf) [{Code}](https://github.com/bohanli/BERT-flow) [{Blog}](https://zhuanlan.zhihu.com/p/337134133) 🌟🌟
+- **SimCSE**: Simple Contrastive Learning of Sentence Embeddings [{Paper}](https://arxiv.org/pdf/2104.08821.pdf) [{Code}](https://github.com/princeton-nlp/SimCSE) 🌟🌟🌟
+
 ## 参考
 
 - [thunlp/NLP-THU](https://github.com/thunlp/NLP-THU)
