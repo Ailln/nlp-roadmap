@@ -1,6 +1,6 @@
 # Natural Language Processing Roadmap
 
-🗺️ 一个自然语言处理的学习路线图
+🗺️ 一个「自然语言处理」的**学习路线图**。
 
 > ⚠️ 注意:
 >
@@ -35,11 +35,16 @@
 - Visualizing Attention in Transformer-Based Language Representation Models [{Paper}](https://arxiv.org/pdf/1904.02679.pdf) 🌟🌟
 - **PTMs**: Pre-trained Models for Natural Language Processing: A Survey [{Paper}](https://arxiv.org/pdf/2003.08271.pdf) [{Blog}](https://zhuanlan.zhihu.com/p/115014536) 🌟🌟🌟
 - Efficient Transformers: A Survey [{Paper}](https://arxiv.org/pdf/2009.06732.pdf) 🌟🌟
+- A Survey of Transformers [{Paper}](https://arxiv.org/pdf/2106.04554.pdf) 🌟🌟
+- Pre-Trained Models: Past, Present and Future [{Paper}](https://arxiv.org/pdf/2106.07139.pdf) 🌟🌟
+- Pretrained Language Models for Text Generation: A Survey [{Paper}](https://arxiv.org/pdf/2105.10311.pdf) 🌟
+- A Practical Survey on Faster and Lighter Transformers [{Paper}](https://arxiv.org/pdf/2103.14636.pdf) 🌟
+- The NLP Cookbook: Modern Recipes for Transformer based Deep Learning Architectures [{Paper}](https://arxiv.org/pdf/2104.10640.pdf) 🌟🌟
 
 ### 核心
 
 - **NNLM**: A Neural Probabilistic Language Model [{Paper}](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf) [{Code}](https://github.com/FuYanzhe2/NNLM) [{Blog}](https://zhuanlan.zhihu.com/p/21240807) 🌟
-- **W2V**: Efficient Estiation of Word Representations in Vector Space [{Paper}](https://arxiv.org/abs/1301.3781) 🌟🌟
+- **W2V**: Efficient Estimation of Word Representations in Vector Space [{Paper}](https://arxiv.org/abs/1301.3781) 🌟🌟
 - **Glove**: Global Vectors for Word Representation [{Paper}](https://nlp.stanford.edu/pubs/glove.pdf) 🌟🌟
 - **CharCNN**: Character-level Convolutional Networks for Text Classification [{Paper}](https://arxiv.org/pdf/1509.01626.pdf) [{Blog}](https://zhuanlan.zhihu.com/p/51698513) 🌟
 - **ULMFiT**: Universal Language Model Fine-tuning for Text Classification [{Paper}](https://arxiv.org/pdf/1801.06146.pdf) 🌟
@@ -71,7 +76,20 @@
 - HuggingFace Transformers [{Code}](https://github.com/huggingface/transformers)
 - Fudan FastNLP [{Code}](https://github.com/fastnlp/fastNLP)
 
-## 3 序列标注 `Sequence Labeling`
+## 3 文本分类 `Text Classification`
+
+### 综述
+
+- A Survey on Text Classification: From Shallow to Deep Learning [{Paper}](https://arxiv.org/pdf/2008.00364.pdf) 🌟🌟🌟
+- Deep Learning Based Text Classification: A Comprehensive Review [{Paper}](https://arxiv.org/pdf/2004.03705.pdf) 🌟🌟
+
+### CNN
+
+- **TextCNN**:Convolutional Neural Networks for Sentence Classification [{Paper}](https://arxiv.org/pdf/1408.5882.pdf) [{Code}](https://github.com/dennybritz/cnn-text-classification-tf) 🌟🌟🌟
+- Convolutional Neural Networks for Text Categorization: Shallow Word-level vs. Deep Character-level [{Paper}](https://arxiv.org/pdf/1609.00718.pdf) 🌟
+- **DPCNN**: Deep Pyramid Convolutional Neural Networks for Text Categorization [{Paper}](https://www.aclweb.org/anthology/P17-1052.pdf) [{Code}](https://github.com/Cheneng/DPCNN) 🌟🌟
+
+## 4 序列标注 `Sequence Labeling`
 
 ### 综述
 
@@ -91,25 +109,18 @@
 - Sequence to Sequence Learning with Neural Networks [{Paper}](https://proceedings.neurips.cc/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf) 🌟
 - Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks [{Paper}](https://arxiv.org/pdf/1506.03099.pdf) 🌟
 
-## 4 文本分类 `Text Classification`
-
-### CNN
-
-- **TextCNN**:Convolutional Neural Networks for Sentence Classification [{Paper}](https://arxiv.org/pdf/1408.5882.pdf) [{Code}](https://github.com/dennybritz/cnn-text-classification-tf) 🌟🌟🌟
-- Convolutional Neural Networks for Text Categorization: Shallow Word-level vs. Deep Character-level [{Paper}](https://arxiv.org/pdf/1609.00718.pdf) 🌟
-- **DPCNN**: Deep Pyramid Convolutional Neural Networks for Text Categorization [{Paper}](https://www.aclweb.org/anthology/P17-1052.pdf) [{Code}](https://github.com/Cheneng/DPCNN) 🌟🌟
-
 ## 5 对话系统 `Dialogue Systems`
 
 ### 综述
 
 - A Survey on Dialogue Systems: Recent Advances and New Frontiers [{Paper}](https://arxiv.org/pdf/1711.01731v1.pdf) [{Blog}](https://zhuanlan.zhihu.com/p/45210996) 🌟🌟
 - 小哥哥，检索式chatbot了解一下？ [{Blog}](https://mp.weixin.qq.com/s/yC8uYwti9Meyt83xkmbmcg) 🌟🌟🌟
+- Recent Neural Methods on Slot Filling and Intent Classification for Task-Oriented Dialogue Systems: A Survey [{Paper}](https://arxiv.org/pdf/2011.00564.pdf) 🌟🌟
 
 ### Open Domain Dialogue Systems
 
 - **HERD**: Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models [{Paper}](https://arxiv.org/pdf/1507.04808v3.pdf) [{Code}](https://github.com/hsgodhia/hred) 🌟🌟
-- Adversarial Learning for Neural Dialogue Generation [{Paper}](https://arxiv.org/pdf/1701.06547.pdf) [{Code}](https://github.com/liuyuemaicha/Adversarial-Learning-for-Neural-Dialogue-Generation-in-Tensorflow) [{Blog}](https://blog.csdn.net/liuyuemaicha/article/details/60581187)  🌟🌟
+- Adversarial Learning for Neural Dialogue Generation [{Paper}](https://arxiv.org/pdf/1701.06547.pdf) [{Code}](https://github.com/liuyuemaicha/Adversarial-Learning-for-Neural-Dialogue-Generation-in-Tensorflow) [{Blog}](https://blog.csdn.net/liuyuemaicha/article/details/60581187) 🌟🌟
 
 ### Task Oriented Dialogue Systems
 
@@ -122,17 +133,18 @@
 
 ### Conversational Response Selection
 
-- Multi-view Response Selection for Human-Computer Conversation [{Paper}](aclweb.org/anthology/D16-1036.pdf) 🌟🌟
-- **SMN**: Sequential Matching Network: A New Architecture for Multi-turn Response Selection in Retrieval-Based Chatbots [{Paper}](https://www.aclweb.org/anthology/P17-1046.pdf) [{Code}](https://github.com/MarkWuNLP/MultiTurnResponseSelection) [{Blog}](https://zhuanlan.zhihu.com/p/65062025) 🌟🌟🌟
+- Multi-view Response Selection for Human-Computer Conversation [{Paper}](https://aclweb.org/anthology/D16-1036.pdf) 🌟🌟
+- **SMN**: Sequential Matching Network: A New Architecture for Multi-turn Response Selection in Retrieval-Based Chatbots [{Paper}](https://www.aclweb.org/anthology/P17-1046.pdf) [{Code}](https://github.com/MarkWuNLP/MultiTurnResponseSelection) [{Blog}](https://zhuanlan.zhihu.com/p/65062025) 🌟🌟🌟:
 - **DUA**: Modeling Multi-turn Conversation with Deep Utterance Aggregation [{Paper}](https://www.aclweb.org/anthology/C18-1317.pdf) [{Code}](https://github.com/cooelf/DeepUtteranceAggregation) [{Blog}](https://zhuanlan.zhihu.com/p/60618158) 🌟🌟
 - **DAM**: Multi-Turn Response Selection for Chatbots with Deep Attention Matching Network [{Paper}](https://www.aclweb.org/anthology/P18-1103.pdf) [{Code}](https://github.com/baidu/Dialogue/tree/master/DAM) [{Blog}](https://zhuanlan.zhihu.com/p/65143297) 🌟🌟🌟
 - **IMN**: Interactive Matching Network for Multi-Turn Response Selection in Retrieval-Based Chatbots [{Paper}](https://arxiv.org/pdf/1901.01824.pdf) [{Code}](https://github.com/JasonForJoy/IMN) [{Blog}](https://zhuanlan.zhihu.com/p/68590678) 🌟🌟
+- Dialogue Transformers [{Paper}](https://arxiv.org/pdf/1910.00486.pdf) 🌟🌟
 
 ## 6 主题模型 `Topic Model`
 
 ### LDA
 
-- Latent Dirichlet Allocation  [{Paper}](https://jmlr.org/papers/volume3/blei03a/blei03a.pdf) [{Blog}](https://arxiv.org/pdf/1908.03142.pdf) 🌟🌟🌟
+- Latent Dirichlet Allocation [{Paper}](https://jmlr.org/papers/volume3/blei03a/blei03a.pdf) [{Blog}](https://arxiv.org/pdf/1908.03142.pdf) 🌟🌟🌟
 
 ## 7 知识图谱 `Knowledge Graph`
 
@@ -140,7 +152,29 @@
 
 - Towards a Definition of Knowledge Graphs [{Paper}](http://ceur-ws.org/Vol-1695/paper4.pdf) 🌟🌟🌟
 
+## 8 提示学习 `Prompt Learning`
+
+### 综述
+
+- **PPP**: Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing [{Paper}](https://arxiv.org/pdf/2107.13586.pdf) [{Blog}](https://zhuanlan.zhihu.com/p/395115779) 🌟🌟🌟
+
+## 9 图神经网络 `Graph Neural Network`
+
+### 综述
+
+- Graph Neural Networks for Natural Language Processing: A Survey [{Paper}](https://arxiv.org/pdf/2106.06090.pdf) 🌟🌟
+
+## 10 句嵌入 `Sentence Embedding`
+
+### 核心
+
+- **InferSent**: Supervised Learning of Universal Sentence Representations from Natural Language Inference Data [{Paper}](https://arxiv.org/pdf/1705.02364.pdf) [{Code}](https://github.com/facebookresearch/InferSent) 🌟🌟
+- **Sentence-BERT**: Sentence Embeddings using Siamese BERT-Networks [{Paper}](https://arxiv.org/pdf/1908.10084.pdf) [{Code}](https://github.com/UKPLab/sentence-transformers) 🌟🌟🌟
+- **BERT-flow**: On the Sentence Embeddings from Pre-trained Language Models [{Paper}](https://arxiv.org/pdf/2011.05864.pdf) [{Code}](https://github.com/bohanli/BERT-flow) [{Blog}](https://zhuanlan.zhihu.com/p/337134133) 🌟🌟
+- **SimCSE**: Simple Contrastive Learning of Sentence Embeddings [{Paper}](https://arxiv.org/pdf/2104.08821.pdf) [{Code}](https://github.com/princeton-nlp/SimCSE) 🌟🌟🌟
+
 ## 参考
 
 - [thunlp/NLP-THU](https://github.com/thunlp/NLP-THU)
 - [iwangjian/Paper-Reading](https://github.com/iwangjian/Paper-Reading)
+- [thunlp/PromptPapers](https://github.com/thunlp/PromptPapers)
