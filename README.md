@@ -51,6 +51,7 @@
 - **GPT**: Improving Language Understanding by Generative Pre-Training [{Paper}](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) 🌟
 - **GPT2**: Language Models are Unsupervised Multitask Learners [{Paper}](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf) [{Code}](https://github.com/openai/gpt-2) [{Blog}](https://openai.com/blog/better-language-models/) 🌟🌟
 - **GPT3**: Language Models are Few-Shot Learners [{Paper}](https://arxiv.org/pdf/2005.14165.pdf) [{Code}](https://github.com/openai/gpt-3) 🌟🌟🌟
+- **GPT4**: GPT-4 Technical Report [{Paper}](https://arxiv.org/pdf/2303.08774.pdf) 🌟🌟🌟
 - **BERT**: Pre-training of Deep Bidirectional Transformers for Language Understanding [{Paper}](https://arxiv.org/pdf/1810.04805.pdf) [{Code}](https://github.com/google-research/bert) [{Blog}](https://zhuanlan.zhihu.com/p/49271699) 🌟🌟🌟
 - **UniLM**: Unified Language Model Pre-training for Natural Language Understanding and Generation [{Paper}](https://arxiv.org/pdf/1905.03197.pdf) [{Code}](https://github.com/microsoft/unilm) [{Blog}](https://zhuanlan.zhihu.com/p/68327602) 🌟🌟
 - **T5**: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer [{Paper}](https://arxiv.org/pdf/1910.10683.pdf) [{Code}](https://github.com/google-research/text-to-text-transfer-transformer) [{Blog}](https://ai.googleblog.com/2020/02/exploring-transfer-learning-with-t5.html) 🌟
@@ -90,11 +91,13 @@
 - Sequence to Sequence Learning with Neural Networks [{Paper}](https://proceedings.neurips.cc/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf) 🌟
 - Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks [{Paper}](https://arxiv.org/pdf/1506.03099.pdf) 🌟
 
-## 4 知识图谱 `Knowledge Graph`
+## 4 文本分类 `Text Classification`
 
-### 综述
+### CNN
 
-- Towards a Definition of Knowledge Graphs [{Paper}](http://ceur-ws.org/Vol-1695/paper4.pdf) 🌟🌟🌟
+- **TextCNN**:Convolutional Neural Networks for Sentence Classification [{Paper}](https://arxiv.org/pdf/1408.5882.pdf) [{Code}](https://github.com/dennybritz/cnn-text-classification-tf) 🌟🌟🌟
+- Convolutional Neural Networks for Text Categorization: Shallow Word-level vs. Deep Character-level [{Paper}](https://arxiv.org/pdf/1609.00718.pdf) 🌟
+- **DPCNN**: Deep Pyramid Convolutional Neural Networks for Text Categorization [{Paper}](https://www.aclweb.org/anthology/P17-1052.pdf) [{Code}](https://github.com/Cheneng/DPCNN) 🌟🌟
 
 ## 5 对话系统 `Dialogue Systems`
 
@@ -103,11 +106,19 @@
 - A Survey on Dialogue Systems: Recent Advances and New Frontiers [{Paper}](https://arxiv.org/pdf/1711.01731v1.pdf) [{Blog}](https://zhuanlan.zhihu.com/p/45210996) 🌟🌟
 - 小哥哥，检索式chatbot了解一下？ [{Blog}](https://mp.weixin.qq.com/s/yC8uYwti9Meyt83xkmbmcg) 🌟🌟🌟
 
-### Task-Oriented Dialogue Systems
+### Open Domain Dialogue Systems
+
+- **HERD**: Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models [{Paper}](https://arxiv.org/pdf/1507.04808v3.pdf) [{Code}](https://github.com/hsgodhia/hred) 🌟🌟
+- Adversarial Learning for Neural Dialogue Generation [{Paper}](https://arxiv.org/pdf/1701.06547.pdf) [{Code}](https://github.com/liuyuemaicha/Adversarial-Learning-for-Neural-Dialogue-Generation-in-Tensorflow) [{Blog}](https://blog.csdn.net/liuyuemaicha/article/details/60581187)  🌟🌟
+
+### Task Oriented Dialogue Systems
 
 - **Joint NLU**: Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling [{Paper}](https://arxiv.org/pdf/1609.01454.pdf) [{Code}](https://github.com/Ailln/chatbot) 🌟🌟
 - BERT for Joint Intent Classification and Slot Filling [{Paper}](https://arxiv.org/pdf/1902.10909.pdf) 🌟
 - Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures [{Paper}](https://www.aclweb.org/anthology/P18-1133.pdf) [{Code}](https://github.com/WING-NUS/sequicity) 🌟🌟
+- Attention with Intention for a Neural Network Conversation Model [{Paper}](https://arxiv.org/pdf/1510.08565.pdf) 🌟
+- **REDP**: Few-Shot Generalization Across Dialogue Tasks [{Paper}](https://arxiv.org/pdf/1811.11707.pdf) [{Blog}](http://www.xuwei.io/2019/03/18/%E3%80%8Afew-shot-generalization-across-dialogue-tasks%E3%80%8B%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/) 🌟🌟
+- **TEDP**: Dialogue Transformers [{Paper}](https://arxiv.org/pdf/1910.00486.pdf) [{Code}](https://github.com/RasaHQ/TED-paper) [{Blog}](https://zhuanlan.zhihu.com/p/336977835) 🌟🌟🌟
 
 ### Conversational Response Selection
 
@@ -122,6 +133,12 @@
 ### LDA
 
 - Latent Dirichlet Allocation  [{Paper}](https://jmlr.org/papers/volume3/blei03a/blei03a.pdf) [{Blog}](https://arxiv.org/pdf/1908.03142.pdf) 🌟🌟🌟
+
+## 7 知识图谱 `Knowledge Graph`
+
+### 综述
+
+- Towards a Definition of Knowledge Graphs [{Paper}](http://ceur-ws.org/Vol-1695/paper4.pdf) 🌟🌟🌟
 
 ## 参考
 
